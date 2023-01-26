@@ -11,6 +11,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Selenide.executeJavaScript;
 
 public class RegistrationPage {
+
     private CalendarComponent calendarComponent = new CalendarComponent();
     private ResultPopUp resultPopUp = new ResultPopUp();
 
