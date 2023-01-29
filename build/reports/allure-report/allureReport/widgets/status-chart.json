@@ -1,0 +1,1 @@
+[{"uid":"42af8d69b35f17e9","name":"Некорректное заполнение формы","time":{"start":1675017050303,"stop":1675017054250,"duration":3947},"status":"passed","severity":"minor"},{"uid":"9a25da0357113bdf","name":"Успешное заполнение формы","time":{"start":1675017054394,"stop":1675017056676,"duration":2282},"status":"passed","severity":"critical"}]

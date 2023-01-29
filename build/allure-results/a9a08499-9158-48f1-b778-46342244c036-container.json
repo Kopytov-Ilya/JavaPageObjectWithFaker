@@ -1,0 +1,1 @@
+{"uuid":"a9a08499-9158-48f1-b778-46342244c036","name":"Некорректное заполнение формы","children":["6d226540-3e64-43e1-b72a-d273f2cfdc77"],"befores":[{"name":"beforeEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1675018395600,"stop":1675018395603}],"afters":[],"start":1675018395559,"stop":1675018399730}

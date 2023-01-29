@@ -22,8 +22,6 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 .gradle
-**/build/
-!src/**/build/
 gradle-app.setting
 !gradle-wrapper.jar
 !gradle-wrapper.properties
