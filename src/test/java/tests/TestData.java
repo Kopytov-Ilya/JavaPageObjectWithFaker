@@ -24,7 +24,8 @@ public class TestData {
             picture = "ForTest.png",
             address = faker.address().streetAddress(),
             state = setRandomValue("Uttar Pradesh", "NCR", "Haryana", "Rajasthan"),
-            city = setRandomCity(state);
+            city = setRandomCity(state),
+            negativeName = "Test2";
 
     public String setRandomValue(String... strings) {
         ArrayList<String> values = new ArrayList<>();
