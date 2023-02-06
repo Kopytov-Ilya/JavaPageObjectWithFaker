@@ -29,3 +29,5 @@ gradle-app.setting
 .project
 .classpath
 *.hprof
+config.json
+draft.txt
